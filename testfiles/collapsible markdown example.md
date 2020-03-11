@@ -1,12 +1,9 @@
- <details><summary>
-Click to see the code.
-  </summary>
+<details><summary>Click to see the code.</summary>
  
 ```python
 print("hello world!")
 ``` 
-
-  </details>
+</details>
 
 <details>
 <summary>Heading1</summary>
